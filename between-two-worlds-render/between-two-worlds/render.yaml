@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: between-two-worlds
+    runtime: static
+    staticPublishPath: ./public
